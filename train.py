@@ -42,7 +42,7 @@ def main(batch_size: int = typer.Option(32, "--batch_size", "-b", help="Batch si
 
     with mlflow.start_run():
         history = model.fit(train, epochs=epochs, validation_data=val, batch_size=batch_size)
-        
+        model.save("models/my_model.h5")
         mlflow.log_param("epochs", epochs)
         mlflow.log_param("batch_size", batch_size)
         mlflow.log_param("learning_rate", learning_rate)
