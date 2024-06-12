@@ -19,3 +19,7 @@ dvc add models/my_model.h5
 ```
 streamlit run streamlit.py
 ```
+6. W celu odpalenia eksperymentów z etapami trenowania uruchom
+```
+dvc exp run
+```

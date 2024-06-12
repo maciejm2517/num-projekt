@@ -1,0 +1,7 @@
+stages:
+  train_model:
+    cmd: python3 train.py --learning_rate 0.01 --epochs 1 --batch_size 64
+    deps:
+      - train.py
+    outs:
+      - models/model.h5

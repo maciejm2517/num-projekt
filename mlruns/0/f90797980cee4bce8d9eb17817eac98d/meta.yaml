@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f90797980cee4bce8d9eb17817eac98d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90797980cee4bce8d9eb17817eac98d
+run_name: bustling-jay-262
+run_uuid: f90797980cee4bce8d9eb17817eac98d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718225409195
+status: 1
+tags: []
+user_id: linuxik
