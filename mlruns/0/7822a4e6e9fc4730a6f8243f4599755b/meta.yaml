@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7822a4e6e9fc4730a6f8243f4599755b/artifacts
+end_time: 1718215214690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7822a4e6e9fc4730a6f8243f4599755b
+run_name: vaunted-grub-467
+run_uuid: 7822a4e6e9fc4730a6f8243f4599755b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718215199675
+status: 4
+tags: []
+user_id: linuxik

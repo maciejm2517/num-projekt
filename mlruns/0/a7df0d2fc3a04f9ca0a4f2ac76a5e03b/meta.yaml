@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7df0d2fc3a04f9ca0a4f2ac76a5e03b/artifacts
+end_time: 1718214373512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7df0d2fc3a04f9ca0a4f2ac76a5e03b
+run_name: enchanting-goose-773
+run_uuid: a7df0d2fc3a04f9ca0a4f2ac76a5e03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718214373146
+status: 4
+tags: []
+user_id: linuxik

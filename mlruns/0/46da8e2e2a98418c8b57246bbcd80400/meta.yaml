@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/46da8e2e2a98418c8b57246bbcd80400/artifacts
+end_time: 1718215277311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46da8e2e2a98418c8b57246bbcd80400
+run_name: suave-dove-166
+run_uuid: 46da8e2e2a98418c8b57246bbcd80400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718215223488
+status: 4
+tags: []
+user_id: linuxik
