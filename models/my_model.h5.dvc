@@ -1,0 +1,5 @@
+outs:
+- md5: aade9de1ec025d3851c87563f6f69e5b
+  size: 174702288
+  hash: md5
+  path: my_model.h5
